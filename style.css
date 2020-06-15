@@ -10,8 +10,20 @@ h3{
 }
 
 p{
-    color: #962366
+    color: #6C464E
 }
 body{
     background: #84bb9b;
+}
+nav a{
+    color: #EEEBD3 ;
+}
+a{
+    color: #5A9367;
+}
+.body{
+    background: #BEB8EB;
+}
+.header{
+    color: #334139;
 }
