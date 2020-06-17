@@ -27,3 +27,28 @@ a{
 .header{
     color: #334139;
 }
+.main{
+    margin-left: 90px;
+    margin-right: 90px;
+
+}
+.footer{
+    background: rgb(198, 192, 240);
+    min-width: 690px;
+    display: inline-block;
+    padding: 5px;
+    border: 3px solid #334139;
+    margin: 5px;
+}
+.section{
+    background: #c1bce9;
+    border: 2px solid #6C464E;
+    margin: 3px;
+}
+.navigation{
+    background: rgb(87, 185, 180);
+    min-width: : 500px;
+    height: 27px;
+    border: 4px groove #709775 ;
+    border-radius: 20%;
+}

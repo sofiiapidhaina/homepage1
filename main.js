@@ -1,3 +1,4 @@
+alert('witam');
 
 const name = 'Sofia';
 const age = 16;
